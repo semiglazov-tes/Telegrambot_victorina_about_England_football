@@ -1,0 +1,17 @@
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\TelegramVictorinaBot.exe
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.AssemblyInfoInputs.cache
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.AssemblyInfo.cs
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\TelegramVictorinaBot.deps.json
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\TelegramVictorinaBot.runtimeconfig.json
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\TelegramVictorinaBot.runtimeconfig.dev.json
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\TelegramVictorinaBot.dll
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\TelegramVictorinaBot.pdb
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.csprojAssemblyReference.cache
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.csproj.CoreCompileInputs.cache
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.csproj.CopyComplete
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.dll
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.pdb
+D:\С# project\Scilbox\TelegramVictorinaBot\obj\Debug\netcoreapp3.1\TelegramVictorinaBot.genruntimeconfig.cache
+D:\С# project\Scilbox\TelegramVictorinaBot\bin\Debug\netcoreapp3.1\VictorinaQuestions.txt
